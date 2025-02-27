@@ -40,7 +40,7 @@ Asistensi-Pemrograman-Mobile-8/
 ## 🏗️ 3. Tambahkan Tugas Praktikum
 1. Masuk ke folder tugas praktikum yang sesuai :
    ```sh
-   cd "Tugas-Praktikum-1/NIM"
+   cd Tugas-Praktikum-1/NIM
    ```
 2. Pindahkan file tugas kalian ke dalam folder tersebut:
 3. Lakukan Pengecekan apakah file sudah ada?
