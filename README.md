@@ -2,12 +2,13 @@
 
 ## 📂 Struktur Repository
 ```
-praktikum-mobile-2025/
+Asistensi-Pemrograman-Mobile-8/
 │── Tugas Praktikum 1/
-│   ├── 12345678/  # (NIM Praktikan)
-│   │   ├── tugas1.kt
-│   │   ├── laporan.pdf
+│   ├── NIM/  
+│   │   ├── tugas1
 │── Tugas Praktikum 2/
+│   ├── NIM/  
+│   │   ├── tugas2
 │── README.md
 ```
 
@@ -27,11 +28,11 @@ praktikum-mobile-2025/
 1. **Buka Terminal / Git Bash**.
 2. Clone repository ke komputer dengan perintah:
    ```sh
-   git clone https://github.com/username/praktikum-mobile-2025.git
+   git clone https://github.com/username/asistensi-pemrograman-mobile-8.git
    ```
 3. Masuk ke folder repository:
    ```sh
-   cd praktikum-mobile-2025
+   cd asistensi-pemrograman-mobile-8
    ```
 
 ---
@@ -39,15 +40,15 @@ praktikum-mobile-2025/
 ## 🏗️ 3. Tambahkan Tugas Praktikum
 1. Masuk ke folder tugas praktikum yang sesuai, lalu buat folder dengan NIM kalian:
    ```sh
-   mkdir "Tugas Praktikum 1/12345678"
+   mkdir "Tugas Praktikum 1/NIM"
    ```
 2. Pindahkan file tugas kalian ke dalam folder tersebut:
    ```sh
-   mv tugas1.kt laporan.pdf "Tugas Praktikum 1/12345678/"
+   mv tugas1.kt laporan.pdf "Tugas Praktikum 1/NIM/"
    ```
 3. Cek apakah file sudah ada dengan:
    ```sh
-   ls "Tugas Praktikum 1/12345678/"
+   ls "Tugas Praktikum 1/NIM/"
    ```
 
 ---
@@ -59,7 +60,7 @@ praktikum-mobile-2025/
    ```
 2. Buat commit dengan pesan yang jelas:
    ```sh
-   git commit -m "Tambah Tugas Praktikum 1 - 12345678"
+   git commit -m "Tambah Tugas Praktikum 1 - NIM"
    ```
 3. Kirim perubahan ke repository GitHub kalian:
    ```sh
@@ -74,7 +75,7 @@ praktikum-mobile-2025/
 3. Pilih **Compare changes** dan pastikan repository tujuan adalah repository utama praktikum.
 4. Klik **Create Pull Request**, beri judul:
    ```
-   Pengumpulan Tugas Praktikum 1 - 12345678
+   Pengumpulan Tugas Praktikum 1 - NIM
    ```
 5. Tunggu dosen/aslab untuk review dan merge PR.
 
