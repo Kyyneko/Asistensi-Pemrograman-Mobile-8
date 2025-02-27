@@ -19,7 +19,7 @@ Asistensi-Pemrograman-Mobile-8/
 2. Klik tombol **Fork** (kanan atas) untuk membuat salinan repository ke akun kalian.
 3. Setelah fork, kalian akan memiliki repository dengan URL:
    ```
-   https://github.com/username/praktikum-mobile-2025
+   https://github.com/kyyneko/Asistensi-Pemrograman-Mobile-8
    ```
 
 ---
@@ -28,11 +28,11 @@ Asistensi-Pemrograman-Mobile-8/
 1. **Buka Terminal / Git Bash**.
 2. Clone repository ke komputer dengan perintah:
    ```sh
-   git clone https://github.com/username/asistensi-pemrograman-mobile-8.git
+   git clone https://github.com/kyyneko/Asistensi-Pemrograman-Mobile-8.git
    ```
 3. Masuk ke folder repository:
    ```sh
-   cd asistensi-pemrograman-mobile-8
+   cd Asistensi-Pemrograman-Mobile-8
    ```
 
 ---
@@ -44,7 +44,7 @@ Asistensi-Pemrograman-Mobile-8/
    ```
 2. Pindahkan file tugas kalian ke dalam folder tersebut:
    ```sh
-   mv tugas1.kt laporan.pdf "Tugas Praktikum 1/NIM/"
+   mv tugas "Tugas Praktikum 1/NIM/"
    ```
 3. Cek apakah file sudah ada dengan:
    ```sh
