@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationLabelStyle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="searchIcon">@drawable/home</item>
+        <item name="closeIcon">@null</item>
+        <item name="goIcon">@drawable/home</item>
+        <item name="commitIcon">@drawable/home</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textColorHighlight">@color/grey</item>
+        <item name="queryBackground">@drawable/home</item>
+        <item name="searchHintIcon">@drawable/home</item>
+        <item name="queryHint">"search_hint"</item>
+    </style>
+</resources>

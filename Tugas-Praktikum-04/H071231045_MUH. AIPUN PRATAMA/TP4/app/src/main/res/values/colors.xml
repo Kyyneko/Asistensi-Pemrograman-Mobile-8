@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0C0F14</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#383838</color>
+    <color name="light_grey">#909090</color>
+    <color name="star_off">#949494</color>
+    <color name="yellow">#FFD700</color>
+    <color name="naruto_yellow">#FFCC00</color>
+    <color name="naruto_orange">#FF6F00</color>
+    <color name="akatsuki_red">#FF0000</color>
+
+</resources>
