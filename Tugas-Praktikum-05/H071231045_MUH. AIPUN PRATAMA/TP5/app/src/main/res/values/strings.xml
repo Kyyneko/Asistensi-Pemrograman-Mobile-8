@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_hint">Mau cari buku apa hari ini???</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blurb">
+        Banished from the celestial realm for an act of defiance, Elara, a luminous star stripped of her celestial form, descends to the mortal world. In Aisha Khan\'s enchanting \'The Wandering Star,\' she must navigate the complexities of human society, encounter mythical beings both benevolent and malevolent, and unravel the mysteries of earthly magic as she seeks a path back to her celestial home, all while grappling with newfound emotions and the weight of her stardust heart.
+    </string>
+</resources>
